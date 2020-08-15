@@ -1,0 +1,13 @@
+{
+  "name": "magrr",
+  "version": "1.0.0",
+  "description": "It helps you spend your precious time!",
+  "main": "index.js",
+  "repository": "git@github.com:bonasunu/magrr.git",
+  "author": "bonasunu <bonaventurasunu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
